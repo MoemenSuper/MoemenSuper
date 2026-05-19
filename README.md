@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Moemen 👋</h1>
+<h1 align="center">Hi, I'm Moemen </h1>
 
 <p align="center">
   Computer Science student, photographer, and builder of stuff I actually care about.
@@ -28,7 +28,8 @@ Java • Python • C/C++ • Android • Flask • Firebase • Git • SQL •
 ### More than code
 
 Photography  
-Creative work  
+Creative writing (poetry)
+Wannabe singer
 Learning fast  
 Building things that feel polished
 
