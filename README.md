@@ -25,6 +25,10 @@ I enjoy learning by building, improving things until they feel right, and workin
 
 Java • Python • C/C++ • Android • Flask • Firebase • Git • SQL • Regex
 
+### Things i wanna know more about:
+DevOps
+Cloud
+
 ### More than code
 
 Photography  
