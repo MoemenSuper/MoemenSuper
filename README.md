@@ -16,7 +16,7 @@ I enjoy learning by building, improving things until they feel right, and workin
 
 ### A few things I’ve worked on
 
-- **Alex Horror** — a Minecraft horror mod with custom systems and AI-driven interactions <a href="https://raw.githubusercontent.com/MoemenSuper/Minecraft-Herobree-mod/refs/heads/main/Herobree.jar.png"><img src="https://raw.githubusercontent.com/MoemenSuper/Minecraft-Herobree-mod/refs/heads/main/Herobree.jar.png" width="52"/></a>
+- **Alex Horror** — a Minecraft horror mod with custom systems and AI-driven interactions&nbsp;&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/MoemenSuper/Minecraft-Herobree-mod/refs/heads/main/Herobree.jar.png"><img src="https://raw.githubusercontent.com/MoemenSuper/Minecraft-Herobree-mod/refs/heads/main/Herobree.jar.png" width="72" style="vertical-align:middle;"></a>
 - **HeatMap** — an Android app built around live map tracking and territory capture
 - **AI Laptop Recommender** — a small web app that helps recommend laptops with a fallback system
 - **Virtual City Simulation** — a C++ project focused on OOP and clean structure
