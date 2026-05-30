@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond:wght@700&size=38&pause=2900&duration=6500&center=true&vCenter=true&width=720&color=F28C28&letterSpacing=0.3px&lines=Hi,+I'm+Moemen" />
+  <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond:wght@700&size=38&pause=2900&duration=6500&center=true&vCenter=true&width=720&color=F28C28&letterSpacing=0.3px&lines=Hi,+I'm+Moemen." />
 </p>
 
 <p align="center">
@@ -8,7 +8,7 @@
 
 ---
 
-### About me
+### About me:
 
 I like making things that are useful, creative, and a little different.
 
@@ -16,19 +16,20 @@ Most of my time goes into software projects, especially Java, C++, Android, and 
 
 I enjoy learning by building, improving things until they feel right, and working on projects that have a clear personality instead of looking generic.
 
-### A few things I’ve worked on
+### A few things I’ve worked on:
 
 - **Minecraft-Herobree-mod** — a Minecraft horror mod with custom systems and AI-driven interactions&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://raw.githubusercontent.com/MoemenSuper/Minecraft-Herobree-mod/refs/heads/main/Herobree.jar.png"><img src="https://raw.githubusercontent.com/MoemenSuper/Minecraft-Herobree-mod/refs/heads/main/Herobree.jar.png" width="190" style="position:relative; top:8px;"></a>
 - **HeatMap** — an Android app built around live map tracking and territory capture
 - **AI Laptop Recommender** — a small web app that helps recommend laptops with a fallback system
 - **Virtual City Simulation** — a C++ project focused on OOP and clean structure
 
-### Things I use
+### Things I use:
 
 <p>
   <img src="https://skillicons.dev/icons?i=java" alt="Java" height="40" title="Java" style="margin-right: 25px;" />
   <img src="https://skillicons.dev/icons?i=python" alt="Python" height="40" title="Python" style="margin-right: 25px;" />
-  <img src="https://skillicons.dev/icons?i=cpp" alt="C++" height="40" title="C/C++" style="margin-right: 25px;" />
+  <img src="https://skillicons.dev/icons?i=cpp" alt="C++" height="40" title="C++" style="margin-right: 25px;" />
+  <img src="https://skillicons.dev/icons?i=c" alt="C" height="40" title="C" style="margin-right: 25px;" />
   <img src="https://skillicons.dev/icons?i=androidstudio" alt="Android" height="40" title="Android" style="margin-right: 25px;" />
   <img src="https://skillicons.dev/icons?i=flask" alt="Flask" height="40" title="Flask" style="margin-right: 25px;" />
   <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" height="40" title="Firebase" style="margin-right: 25px;" />
@@ -38,13 +39,14 @@ I enjoy learning by building, improving things until they feel right, and workin
   <img src="https://skillicons.dev/icons?i=html" alt="HTML" height="40" title="HTML" style="margin-right: 25px;" />
   <img src="https://skillicons.dev/icons?i=css" alt="CSS" height="40" title="CSS" style="margin-right: 25px;" />
   <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" height="40" title="JavaScript" style="margin-right: 25px;" />
+  <img src="https://skillicons.dev/icons?i=linux" alt="Linux" height="40" title="Linux" style="margin-right: 25px;" />
 </p>
 
 ### Things i wanna know more about:
 DevOps,
 Cloud
 
-### More than code
+### More than code:
 
 Photography  
 Creative writing (poetry)
