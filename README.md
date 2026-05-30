@@ -23,7 +23,17 @@ I enjoy learning by building, improving things until they feel right, and workin
 
 ### Things I use
 
-Java • Python • C/C++ • Android • Flask • Firebase • Git • SQL • Regex
+<p>
+  <img src="https://skillicons.dev/icons?i=java" alt="Java" height="40" />
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" height="40" />
+  <img src="https://skillicons.dev/icons?i=cpp" alt="C++" height="40" />
+  <img src="https://skillicons.dev/icons?i=androidstudio" alt="Android" height="40" />
+  <img src="https://skillicons.dev/icons?i=flask" alt="Flask" height="40" />
+  <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" height="40" />
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" height="40" />
+  <img src="https://skillicons.dev/icons?i=mysql" alt="SQL" height="40" />
+  <img src="https://skillicons.dev/icons?i=react" alt="React" height="40" />
+</p>
 
 ### Things i wanna know more about:
 DevOps
