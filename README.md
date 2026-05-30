@@ -9,7 +9,7 @@
 
 ### About me:
 
-I build things that are useful, creative, and a little different — mostly in Java, C++, and Android, with some AI tooling mixed in. I learn by doing, I refine things until they feel right, and I care about a project's personality just as much as its function.
+I build things that are useful, creative, and a little different — mostly in Java, C++, and Android, with some AI tooling mixed in. I learn by doing, I push things until they feel polished, and I care about a project's personality just as much as its function.
 
 ---
 
@@ -62,6 +62,4 @@ DevOps · Cloud infrastructure
 
 ### More than code:
 
-Photography &nbsp;·&nbsp; Creative writing &nbsp;·&nbsp; Music &nbsp;·&nbsp; Building things that feel polished
-
-> Looking ahead is ordinary. Staying ahead is the standard I hold myself to.
+Photography &nbsp;·&nbsp; Creative writing &nbsp;·&nbsp; Music
