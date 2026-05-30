@@ -24,18 +24,18 @@ I enjoy learning by building, improving things until they feel right, and workin
 ### Things I use
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java" alt="Java" height="40" title="Java" style="margin-right: 6px;" />
-  <img src="https://skillicons.dev/icons?i=python" alt="Python" height="40" title="Python" style="margin-right: 6px;" />
-  <img src="https://skillicons.dev/icons?i=cpp" alt="C++" height="40" title="C/C++" style="margin-right: 6px;" />
-  <img src="https://skillicons.dev/icons?i=androidstudio" alt="Android" height="40" title="Android" style="margin-right: 6px;" />
-  <img src="https://skillicons.dev/icons?i=flask" alt="Flask" height="40" title="Flask" style="margin-right: 6px;" />
-  <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" height="40" title="Firebase" style="margin-right: 6px;" />
-  <img src="https://skillicons.dev/icons?i=git" alt="Git" height="40" title="Git/GitHub" style="margin-right: 6px;" />
-  <img src="https://skillicons.dev/icons?i=mysql" alt="SQL" height="40" title="SQL" style="margin-right: 6px;" />
-  <img src="https://skillicons.dev/icons?i=react" alt="React" height="40" title="React" style="margin-right: 6px;" />
-  <img src="https://skillicons.dev/icons?i=html" alt="HTML" height="40" title="HTML" style="margin-right: 6px;" />
-  <img src="https://skillicons.dev/icons?i=css" alt="CSS" height="40" title="CSS" style="margin-right: 6px;" />
-  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" height="40" title="JavaScript" style="margin-right: 6px;" />
+  <img src="https://skillicons.dev/icons?i=java" alt="Java" height="40" title="Java" style="margin-right: 8px;" />
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" height="40" title="Python" style="margin-right: 8px;" />
+  <img src="https://skillicons.dev/icons?i=cpp" alt="C++" height="40" title="C/C++" style="margin-right: 8px;" />
+  <img src="https://skillicons.dev/icons?i=androidstudio" alt="Android" height="40" title="Android" style="margin-right: 8px;" />
+  <img src="https://skillicons.dev/icons?i=flask" alt="Flask" height="40" title="Flask" style="margin-right: 8px;" />
+  <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" height="40" title="Firebase" style="margin-right: 8px;" />
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" height="40" title="Git/GitHub" style="margin-right: 8px;" />
+  <img src="https://skillicons.dev/icons?i=mysql" alt="SQL" height="40" title="SQL" style="margin-right: 8px;" />
+  <img src="https://skillicons.dev/icons?i=react" alt="React" height="40" title="React" style="margin-right: 8px;" />
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML" height="40" title="HTML" style="margin-right: 8px;" />
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS" height="40" title="CSS" style="margin-right: 8px;" />
+  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" height="40" title="JavaScript" style="margin-right: 8px;" />
 </p>
 
 ### Things i wanna know more about:
