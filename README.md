@@ -16,9 +16,9 @@ I build things that are useful, creative, and a little different — mostly in J
 ### A few things I've worked on:
 
 - **[Minecraft-Herobree-mod](https://github.com/MoemenSuper/Minecraft-Herobree-mod)** — a Minecraft horror mod with custom systems and AI-driven interactions
-- **HeatMap** — an Android app built around live map tracking and territory capture
-- **AI Laptop Recommender** — a web app that recommends laptops using an AI model with a fallback system
-- **Virtual City Simulation** — a C++ project focused on OOP and clean architecture
+- **[HeatMap](https://github.com/MoemenSuper/Heat-map)** — an Android app built around live map tracking and territory capture
+- **[AI Laptop Recommender](https://github.com/MoemenSuper/AI-Laptop-Recommender)** — a web app that recommends laptops using an AI model with a fallback system
+- **[Virtual City Simulation](https://github.com/Ademzouabi/city_sim)** — a C++ project focused on OOP and clean architecture
 
 ---
 
@@ -28,22 +28,24 @@ I build things that are useful, creative, and a little different — mostly in J
 
 <img src="https://skillicons.dev/icons?i=java,python,cpp,c,js" height="36" />
 
-**Tools & Frameworks**
+**Web**
 
-<img src="https://skillicons.dev/icons?i=androidstudio,flask,firebase,react,mysql,git" height="36" />
+<img src="https://skillicons.dev/icons?i=html,css,react" height="36" />
+
+**Tools**
+
+<img src="https://skillicons.dev/icons?i=androidstudio,flask,firebase,mysql,git" height="36" />
 
 **Environment**
 
-<img src="https://skillicons.dev/icons?i=linux,html,css" height="36" />
+<img src="https://skillicons.dev/icons?i=linux" height="36" />
 
 ---
 
 ### GitHub:
 
 <p align="center">
-  <img height="155" src="https://github-readme-stats.vercel.app/api?username=MoemenSuper&show_icons=true&theme=github_dark&hide_border=true&title_color=F28C28&icon_color=F28C28&rank_icon=github" />
-  &nbsp;&nbsp;
-  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoemenSuper&layout=compact&theme=github_dark&hide_border=true&title_color=F28C28&langs_count=6" />
+  <img src="https://streak-stats.demolab.com/?user=MoemenSuper&theme=github-dark&hide_border=true&ring=F28C28&fire=F28C28&currStreakLabel=F28C28" />
 </p>
 
 ---
