@@ -1,4 +1,6 @@
-<h1 align="center">Hi, I'm Moemen </h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=35&pause=1200&speed=60&center=true&vCenter=true&width=600&cursorColor=AAAAAA&lines=Hi,+I'm+Moemen" />
+</p>
 
 <p align="center">
   Computer Science student, photographer, and builder of stuff I actually care about.
