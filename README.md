@@ -34,7 +34,11 @@ I build things that are useful, creative, and a little different — mostly in J
 
 **Tools**
 
-<img src="https://skillicons.dev/icons?i=androidstudio,flask,firebase,mysql,git" height="36" />
+<img src="https://skillicons.dev/icons?i=flask,firebase,mysql,git" height="36" />
+
+**Editors**
+
+<img src="https://skillicons.dev/icons?i=vscode,idea,androidstudio" height="36" />
 
 **Environment**
 
