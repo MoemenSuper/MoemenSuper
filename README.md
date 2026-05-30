@@ -24,15 +24,15 @@ I enjoy learning by building, improving things until they feel right, and workin
 ### Things I use
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java" alt="Java" height="40" />
-  <img src="https://skillicons.dev/icons?i=python" alt="Python" height="40" />
-  <img src="https://skillicons.dev/icons?i=cpp" alt="C++" height="40" />
-  <img src="https://skillicons.dev/icons?i=androidstudio" alt="Android" height="40" />
-  <img src="https://skillicons.dev/icons?i=flask" alt="Flask" height="40" />
-  <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" height="40" />
-  <img src="https://skillicons.dev/icons?i=git" alt="Git" height="40" />
-  <img src="https://skillicons.dev/icons?i=mysql" alt="SQL" height="40" />
-  <img src="https://skillicons.dev/icons?i=react" alt="React" height="40" />
+  <img src="https://skillicons.dev/icons?i=java" alt="Java" height="40" title="Java" />
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" height="40" title="Python"/>
+  <img src="https://skillicons.dev/icons?i=cpp" alt="C++" height="40" title="C/C++"/>
+  <img src="https://skillicons.dev/icons?i=androidstudio" alt="Android" height="40" title="Android" />
+  <img src="https://skillicons.dev/icons?i=flask" alt="Flask" height="40" title="Flask"/>
+  <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" height="40" title="Firebase" />
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" height="40" title="Git/GitHub" />
+  <img src="https://skillicons.dev/icons?i=mysql" alt="SQL" height="40"  title="SQL"/>
+  <img src="https://skillicons.dev/icons?i=react" alt="React" height="40" title="React" />
 </p>
 
 ### Things i wanna know more about:
