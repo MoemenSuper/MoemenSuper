@@ -26,7 +26,7 @@ I build things that are useful, creative, and a little different — mostly in J
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=java,python,cpp,c,js,php" height="36" />
+<img src="https://skillicons.dev/icons?i=java,python,cpp,c,js" height="36" />
 
 **Web**
 
