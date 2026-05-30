@@ -30,7 +30,7 @@ I build things that are useful, creative, and a little different — mostly in J
 
 **Web**
 
-<img src="https://skillicons.dev/icons?i=html,css,react" height="36" />
+<img src="https://skillicons.dev/icons?i=html,css,react,php" height="36" />
 
 **Tools**
 
