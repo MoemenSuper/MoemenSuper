@@ -44,6 +44,10 @@ I build things that are useful, creative, and a little different — mostly in J
 
 <img src="https://skillicons.dev/icons?i=linux" height="36" />
 
+**Concepts**
+
+![Regex](https://img.shields.io/badge/Regex-F28C28?style=flat-square&logoColor=white)
+
 ---
 
 ### GitHub:
