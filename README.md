@@ -60,7 +60,7 @@ I build things that are useful, creative, and a little different — mostly in J
 ### GitHub:
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MoemenSuper&theme=github-compact&hide_border=true&color=F28C28&line=F28C28&point=F28C28" />
+  <img src="https://github-profile-trophy.vercel.app/?username=MoemenSuper&theme=darkhub&no-frame=true&column=4&margin-w=8" />
 </p>
 
 ---
