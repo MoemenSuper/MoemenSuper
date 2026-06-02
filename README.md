@@ -57,13 +57,6 @@ I build things that are useful, creative, and a little different — mostly in J
 
 ---
 
-### GitHub:
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MoemenSuper&theme=darkhub&no-frame=true&column=4&margin-w=8" />
-</p>
-
----
 
 ### Things I want to learn more about:
 
