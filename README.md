@@ -46,6 +46,13 @@ I build things that are useful, creative, and a little different — mostly in J
 
 **Concepts**
 
+![OOP](https://img.shields.io/badge/OOP-F28C28?style=flat-square&logoColor=white)
+![Data Structures](https://img.shields.io/badge/Data%20Structures-F28C28?style=flat-square&logoColor=white)
+![Algorithms](https://img.shields.io/badge/Algorithms-F28C28?style=flat-square&logoColor=white)
+![Recursion](https://img.shields.io/badge/Recursion-F28C28?style=flat-square&logoColor=white)
+![Finite Automata](https://img.shields.io/badge/Finite%20Automata-F28C28?style=flat-square&logoColor=white)
+![Compiler Theory](https://img.shields.io/badge/Compiler%20Theory-F28C28?style=flat-square&logoColor=white)
+![Minimax & Alpha-Beta](https://img.shields.io/badge/Minimax%20%26%20Alpha--Beta-F28C28?style=flat-square&logoColor=white)
 ![Regex](https://img.shields.io/badge/Regex-F28C28?style=flat-square&logoColor=white)
 
 ---
@@ -53,7 +60,7 @@ I build things that are useful, creative, and a little different — mostly in J
 ### GitHub:
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=MoemenSuper&theme=github-dark&hide_border=true&ring=F28C28&fire=F28C28&currStreakLabel=F28C28" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MoemenSuper&show_icons=true&theme=github_dark&hide_border=true&title_color=F28C28&icon_color=F28C28&count_private=true" />
 </p>
 
 ---
