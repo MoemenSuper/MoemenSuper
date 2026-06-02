@@ -26,15 +26,7 @@ I build things that are useful, creative, and a little different — mostly in J
 
 **Languages**
 
-<table><tr><td>
-
 <img src="https://skillicons.dev/icons?i=java,python,cpp,c,js" height="36" />
-
-</td><td>
-
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=MoemenSuper&theme=dark&hide_border=true&layout=compact&title_color=F28C28" />
-
-</td></tr></table>
 
 **Web**
 
