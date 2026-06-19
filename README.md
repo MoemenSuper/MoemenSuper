@@ -15,7 +15,7 @@ I build things that are useful, creative, and a little different — mostly in J
 
 ### A few things I've worked on:
 
-- **[Minecraft-Herobree-mod](https://github.com/MoemenSuper/Minecraft-Herobree-mod)** — a Minecraft horror mod with custom systems and AI-driven interactions
+- **[Minecraft-TheOtherAlex-mod](https://github.com/MoemenSuper/Minecraft-Herobree-mod)** — a Minecraft horror mod with custom systems and AI-driven interactions
 - **[HeatMap](https://github.com/MoemenSuper/Heat-map)** — an Android app built around live map tracking and territory capture
 - **[AI Laptop Recommender](https://github.com/MoemenSuper/AI-Laptop-Recommender)** — a web app that recommends laptops using an AI model with a fallback system
 - **[Virtual City Simulation](https://github.com/Ademzouabi/city_sim)** — a C++ project focused on OOP and clean architecture
