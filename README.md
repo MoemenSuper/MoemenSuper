@@ -67,3 +67,6 @@ DevOps · Cloud infrastructure
 ### More than code:
 
 [Professional Photographer](https://moemensuper.crevado.com/) &nbsp;·&nbsp; Creative writing &nbsp;·&nbsp; Music
+
+![snake animation](https://raw.githubusercontent.com/MoemenSuper/MoemenSuper/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![snake animation](https://raw.githubusercontent.com/MoemenSuper/MoemenSuper/output/github-contribution-grid-snake.svg#gh-light-mode-only)
