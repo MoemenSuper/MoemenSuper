@@ -26,23 +26,35 @@ I build things that are useful, creative, and a little different — mostly in J
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=java,python,cpp,c,js" height="36" />
+<img src="https://mauriciospark.github.io/coreIcons/fotos/java.png" height="45" alt="java logo"/> |
+<img src="https://mauriciospark.github.io/coreIcons/fotos/python.png" height="45" alt="css logo"/>
+<img src="https://mauriciospark.github.io/coreIcons/fotos/c++.png" height="45" alt="react logo"/>
+<img src="https://mauriciospark.github.io/coreIcons/fotos/c.png" height="45" alt="c logo"/>
+<img src="https://mauriciospark.github.io/coreIcons/fotos/javascript.png" height="45" alt="javascript logo"/>
 
 **Web**
 
-<img src="https://skillicons.dev/icons?i=html,css,react,php" height="36" />
+<img src="https://mauriciospark.github.io/coreIcons/fotos/html.png" height="45" alt="html logo"/> |
+<img src="https://mauriciospark.github.io/coreIcons/fotos/css.png" height="45" alt="css logo"/>
+<img src="https://mauriciospark.github.io/coreIcons/fotos/react.png" height="45" alt="css logo"/>
+<img src="https://mauriciospark.github.io/coreIcons/fotos/php.png" height="45" alt="javascript logo"/>
 
 **Tools**
 
-<img src="https://skillicons.dev/icons?i=flask,firebase,mysql,git" height="36" />
+<img src="https://mauriciospark.github.io/coreIcons/fotos/flask.png" height="45" alt="flask logo"/> |
+<img src="https://mauriciospark.github.io/coreIcons/fotos/firebase.png" height="45" alt="firebase logo"/>
+<img src="https://mauriciospark.github.io/coreIcons/fotos/mysql.png" height="45" alt="mysql logo"/>
+<img src="https://mauriciospark.github.io/coreIcons/fotos/git.png" height="45" alt="git logo"/>
 
 **Editors**
 
-<img src="https://skillicons.dev/icons?i=vscode,idea,androidstudio" height="36" />
+<img src="https://mauriciospark.github.io/coreIcons/fotos/visualstudiocode.png" height="45" alt="vscode logo"/>|
+<img src="https://mauriciospark.github.io/coreIcons/fotos/intellij.png" height="45" alt="intellij logo"/>
+<img src="https://mauriciospark.github.io/coreIcons/fotos/androidndk.png" height="45" alt="androidndk logo"/>
 
 **Environment**
 
-<img src="https://skillicons.dev/icons?i=linux" height="36" />
+<img src="https://mauriciospark.github.io/coreIcons/fotos/linux.png" height="45" alt="linux logo"/>
 
 **Concepts**
 
